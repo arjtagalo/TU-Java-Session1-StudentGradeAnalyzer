@@ -5,4 +5,6 @@
 <p>Module: StudentGradeAnalyzer</p>
 
 <p>Screenshot of Output:</p>
-![ss](https://github.com/user-attachments/assets/1aa32676-2baf-482f-b0aa-235f80a67232)
+<img alt="image" src="https://github.com/user-attachments/assets/9fc70219-1766-4496-9046-644bf4cb1f82"/>
+
+
